@@ -1,0 +1,12 @@
+description: An addon for KubeVela.
+icon: ""
+invisible: false
+name: function-mesh
+tags:
+- function-mesh
+- serverless
+version: 0.9.0
+url: https://github.com/streamnative/function-mesh
+system:
+  vela: ">=v1.4.0"
+  kubernetes: ">=1.19.0-0"

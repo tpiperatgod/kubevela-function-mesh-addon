@@ -1,2 +1,3 @@
-# kubevela-function-mesh-addon
-Function Mesh Addon for KubeVela
+# function-mesh
+
+This is an addon template. Check how to build your own addon: https://kubevela.net/docs/platform-engineers/addon/intro
