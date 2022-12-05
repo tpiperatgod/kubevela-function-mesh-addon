@@ -10,3 +10,6 @@ url: https://github.com/streamnative/function-mesh
 system:
   vela: ">=v1.4.0"
   kubernetes: ">=1.19.0-0"
+#dependencies:
+#  - name: fluxcd
+#  - name: cert-manager

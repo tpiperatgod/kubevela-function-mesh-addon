@@ -1,9 +1,17 @@
 "meshes": {
 	annotations: {}
-	attributes: workload: {
-		type: "autodetects.core.oam.dev"
+	attributes: {
+		workload: type: "autodetects.core.oam.dev"
+		status: {
+			//			customStatus: #"""
+			//				message: // TODO
+			//				"""#
+			//			healthPolicy: #"""
+			//				isHealth: // TODO
+			//				"""#
+		}
 	}
-	description: "Argocd-application is a definition of application resource."
+	description: "Mesh resource by function-mesh controller."
 	labels: {}
 	type: "component"
 }
